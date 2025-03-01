@@ -1,0 +1,1 @@
+# comparacao-metodos-hierarquicos-nao-hierarquicos-e-mistura-de-normais
